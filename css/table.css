@@ -26,3 +26,9 @@ h1 {
     background-color: white;
     text-align: center;
     }
+a {
+    color: #DE3163
+}
+button {
+    margin: 4 auto;
+}
